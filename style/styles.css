@@ -9,3 +9,21 @@
   font-optical-sizing: auto;
     font-style: normal;
 }
+/* Shared styles */
+.display-flex{
+    display: flex;
+}
+
+/* header styles */
+
+/* navber related styles */
+.navbar{
+    
+}
+.nav-link{
+
+}
+.nav-item{
+    list-style: none;
+    
+}
